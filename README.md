@@ -67,4 +67,4 @@ This dashboard enables managers to:
 - Gain actionable insights that drive efficiency, profitability, and customer satisfaction.
 ---
 ## Screenshot of the Dashboard
--
+- https://github.com/RishabH01112003/Coffee_sales_dashboard/blob/main/Coffee_dashboard.png
