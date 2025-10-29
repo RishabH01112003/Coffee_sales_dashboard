@@ -50,7 +50,7 @@ This dashboard provides a unified view of key performance metrics, helping decis
   Highlights the best-selling products and key revenue drivers.  
 
 - **⏰ Sales by Hour:**  
-  Visualizes hourly sales trends, helping identify peak business hours and optimize staffing.  
+  Visualizes hourly sales trends with tooltips showing total sales, quantity, and orders per hour, helping identify peak business hours and optimize staffing.  
 
 - **📈 Average Daily Sales (Stacked Column Chart):**  
   Shows monthly average sales with a line visual to compare day-to-day performance and detect patterns.  
@@ -67,4 +67,5 @@ This dashboard enables managers to:
 - Gain actionable insights that drive efficiency, profitability, and customer satisfaction.
 ---
 ## Screenshot of the Dashboard
-- https://github.com/RishabH01112003/Coffee_sales_dashboard/blob/main/Coffee_dashboard.png
+- <img width="1223" height="682" alt="Coffee_dashboard" src="https://github.com/user-attachments/assets/500e8164-f8b3-467d-8b32-13700617f500" />
+
