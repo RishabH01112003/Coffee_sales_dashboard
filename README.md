@@ -1,4 +1,4 @@
-# Coffee_sales_dashboard
+
 # ☕ Coffee Sales Dashboard  
 
 A dynamic and interactive Power BI dashboard designed to analyze monthly coffee shop sales performance, order trends, and product demand patterns across multiple store locations.  
