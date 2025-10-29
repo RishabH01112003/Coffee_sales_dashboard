@@ -52,7 +52,7 @@ This dashboard provides a unified view of key performance metrics, helping decis
 - **⏰ Sales by Hour:**  
   Visualizes hourly sales trends, helping identify peak business hours and optimize staffing.  
 
-- **📈 Average Daily Sales:**  
+- **📈 Average Daily Sales (Stacked Column Chart):**  
   Shows monthly average sales with a line visual to compare day-to-day performance and detect patterns.  
 
 ---
