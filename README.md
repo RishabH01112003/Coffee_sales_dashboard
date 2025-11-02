@@ -62,7 +62,7 @@ This dashboard provides a unified view of key performance metrics, helping decis
 This dashboard enables managers to:  
 - Analyze business growth and performance for each store location.  
 - Monitor hourly and daily sales trends to optimize manpower during peak hours.  
-- Identify both **top and least-performing product categories** to refine inventory, pricing, and promotional strategies.  
+- Identify both top and least-performing product categories to refine inventory, pricing, and promotional strategies.  
 - Recognize demand fluctuations across weekdays and weekends for better planning.  
 - Gain actionable insights that drive efficiency, profitability, and customer satisfaction.
 
