@@ -31,7 +31,7 @@ This dashboard provides a unified view of key performance metrics, helping decis
 ##  Dashboard Features  
 
 - **Calendar Heat Map (Calendar Table):**  
-  Added tooltip functionality to view *day-wise* total sales, quantity, and orders directly from the calendar visual.  
+  Added tooltip functionality to view day-wise total sales, quantity, and orders directly from the calendar visual.  
 
 - **Sales by Weekday/Weekend (Donut Chart):**  
   Compares sales between weekdays and weekends to understand demand patterns.  
